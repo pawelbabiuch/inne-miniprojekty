@@ -3,8 +3,8 @@ Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie
 
 ## Spis
 - 
-- [Proceduralnie generowany labirynt](## Proceduralnie generowany labirynt)
-- [Prototyp menu gry mobilnej](## Prototyp menu gry mobilnej)
+- [Proceduralnie generowany labirynt](#proceduralnie-generowany-labirynt)
+- [Prototyp menu gry mobilnej](#prototyp-menu-gry-mobilnej)
 
 ## Proceduralnie generowany labirynt
 Do generowania labiryntu wykorzystano algorytm z nawrotami (backtracking). Labirynt jest budowany na podstawie losowo generowanego seeda (dzięki czemu - zapisując seed - mamy możliwosć odtworzenia tego samego labiryntu).
