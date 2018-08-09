@@ -2,6 +2,7 @@
 Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie oddzielnych repozytoriów :)
 
 ## Spis
+- <a href='#Proceduralnie generowany labirynt'>Proceduralnie generowany labirynt</a>
 - Proceduralnie generowany labirynt
 - Prototyp menu gry mobilnej
 
