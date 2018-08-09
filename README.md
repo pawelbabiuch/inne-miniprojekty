@@ -5,6 +5,8 @@ Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie
 - [Proceduralnie generowany labirynt](#proceduralnie-generowany-labirynt)
 - [Prototyp menu gry mobilnej](#prototyp-menu-gry-mobilnej)
 - [Prototyp zagubionego projektu](#prototyp-zagubionego-projektu)
+- [Kursy na youtube](#kursy-na-youtube)
+  - [Kurs baz danych SQL](#kurs-baz-danych-sql)
 #
 
 ## Proceduralnie generowany labirynt
@@ -47,3 +49,20 @@ Aplikacja, którą gdzieś zgubiłem przy formacie miała reprezentować interak
 <a align='center' href="http://www.youtube.com/watch?feature=player_embedded&v=ytvNBK6Br_4
 " target="_blank"><img src="http://img.youtube.com/vi/ytvNBK6Br_4/0.jpg" 
 alt="wideo prezentujace" border="10" /></a>
+
+## Kursy na youtube
+Kurs stworzony dla kanału: [Cziczak Academy](https://www.youtube.com/channel/UClDKjGJE41b32RJKieos_IA).
+
+### Kurs baz danych SQL
+ Wprowadza niewtajemniczonych w świat relacyjnych baz danych T-SQL. Kurs obejmuje podstawowe zagadnienia i klauzule.
+ 
+ > Ogólne zagadnienia:
+ - Czym jest baza danych (przede wszystkim relacyjna)
+ - Czym jest dobra baza danych
+ - Klauzule: select, from, where, group by, haveing, order by, ...
+ - Tworzenie własnej bazy danych
+ - Funkcje, procedury, widoki, ...
+
+- [Playlista na youtube](https://www.youtube.com/watch?v=zIFdcT0Iu9U&list=PLk6mhiZKpyW73RVcjcsi8kRMLzKKd55z6)
+
+#
