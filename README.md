@@ -6,6 +6,7 @@ Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie
 - [Prototyp menu gry mobilnej](#prototyp-menu-gry-mobilnej)
 - [Prototyp zagubionego projektu](#prototyp-zagubionego-projektu)
 - [Kursy na youtube](#kursy-na-youtube)
+  - [Kurs proceduralnego labiryntu](#kurs-na-youtube)
   - [Kurs baz danych SQL](#kurs-baz-danych-sql)
 #
 
