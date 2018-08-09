@@ -26,7 +26,7 @@ alt="wideo prezentujace" border="10" /></a>
 Prezentacja proceduralnie generowanego labiryntu za pomocą rekurencji.
 
 <a align='center' href="http://www.youtube.com/watch?feature=player_embedded&v=GwcVJSs-zGQ
-" target="_blank"><img src="http://img.youtube.com/vi/GwcVJSs-zGQ/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/zIFdcT0Iu9U&list/0.jpg" 
 alt="wideo prezentujace" border="10" /></a>
 
 #
