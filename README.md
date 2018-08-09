@@ -64,9 +64,6 @@ Kurs stworzony dla kanału: [Cziczak Academy](https://www.youtube.com/channel/UC
  - Tworzenie własnej bazy danych
  - Funkcje, procedury, widoki, ...
 
-- [Playlista na youtube](https://www.youtube.com/watch?v=zIFdcT0Iu9U&list=PLk6mhiZKpyW73RVcjcsi8kRMLzKKd55z6)
+**[Playlista na youtube](https://www.youtube.com/watch?v=zIFdcT0Iu9U&list=PLk6mhiZKpyW73RVcjcsi8kRMLzKKd55z6)**
 
-<a align='center' href="http://www.youtube.com/watch?feature=player_embedded&v=zIFdcT0Iu9U&list=PLk6mhiZKpyW73RVcjcsi8kRMLzKKd55z6
-" target="_blank"><img src="http://img.youtube.com/vi/zIFdcT0Iu9U&list/0.jpg" 
-alt="wideo prezentujace" border="10" /></a>
 #
