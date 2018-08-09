@@ -2,7 +2,6 @@
 Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie oddzielnych repozytoriów :)
 
 ## Spis
-- 
 - [Proceduralnie generowany labirynt](#proceduralnie-generowany-labirynt)
 - [Prototyp menu gry mobilnej](#prototyp-menu-gry-mobilnej)
 
