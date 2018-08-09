@@ -1,7 +1,11 @@
 # unity-inne
 Zbiór zdjęć oraz wideo mini projektów, które nie nadają się na utworzenie oddzielnych repozytoriów :)
 
+> Spis zadań
+- <a href='#maze'>Labirynt</a>
+
 ## Proceduralnie generowany labirynt
+<span id='maze'></span>
 Do generowania labiryntu wykorzystano algorytm z nawrotami (backtracking). Labirynt jest budowany na podstawie losowo generowanego seeda (dzięki czemu - zapisując seed - mamy możliwosć odtworzenia tego samego labiryntu).
 
 ### Kurs na youtube
@@ -19,3 +23,6 @@ Prezentacja proceduralnie generowanego labiryntu za pomocą rekurencji.
 <a align='center' href="http://www.youtube.com/watch?feature=player_embedded&v=GwcVJSs-zGQ
 " target="_blank"><img src="http://img.youtube.com/vi/GwcVJSs-zGQ/0.jpg" 
 alt="wideo prezentujace" border="10" /></a>
+
+
+
